@@ -1,0 +1,6 @@
+Hello there!
+our team trying to create a telegram bot with using AI technology :)
+this bot will understand your message speach and will give some information about the currency exchange rate.
+in future we will add some statistic analyse functions (in progress) 
+we used framework RASA
+
